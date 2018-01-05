@@ -33,13 +33,20 @@ echo     dbPath: %MONGODB_DATA_HOME%\data\db>> "%CONFIG_FILE_DIR%"
 ::mongodb启动
 start mongod -f "%CONFIG_FILE_DIR%"
 
+::mongodb导出数据
+mongoexport --db dba --collection collectiona --out collectiona.json --host 192.168.1.1:27017
+mongoexport --db dba --collection collectionb --out collectionb.json --host 192.168.1.1:27017
+
 ::mongodb导入数据
 cd ../../
 cd qa/mongdb_data
-mongoimport --db timedb --collection marketdata --file marketdata.json
-mongoimport --db timedb --collection legalentity --file legalentity.json
-mongoimport --db timedb --collection portfolio --file portfolio.json
+mongoimport --db dba --collection collectiona --file collectiona.json
+mongoimport --db dba --collection collectionb --file collectionb.json
 cd "%CUR_DIR%"
+
+::清除数据文件
+del collectiona.json
+del collectionb.json
 
 ::创建用户
 mongo --host localhost:27017 "%INIT_JS_DIR%"
