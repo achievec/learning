@@ -1,10 +1,13 @@
+::需要以管理员身份运行
 ::依赖mongdb安装目录bin文件夹环境变量
 ::依赖"MONGODB_DATA_HOME"环境变量
 @echo off
 SETLOCAL 
+cd /d %~sdp0
 SET CUR_DIR="%cd%"
 SET CONFIG_FILE_DIR=mongod.cfg
 SET INIT_JS_DIR=create_user.js
+SET MONGODB_SERVICE_NAME=MongoDB
 
 ::停止mongod进程
 tasklist /nh | find /i "mongod.exe" && taskkill /im mongod.exe /f && echo kill mongod succeed!
@@ -19,7 +22,6 @@ md "%MONGODB_DATA_HOME%\log"
 if exist "%MONGODB_DATA_HOME%\data\db" rd /S /Q "%MONGODB_DATA_HOME%\data\db"
 md "%MONGODB_DATA_HOME%\data\db"
 if exist "%MONGODB_DATA_HOME%\log\mongod.log" del %MONGODB_DATA_HOME%\log\mongod.log
-type nul>%MONGODB_DATA_HOME%\log\mongod.log
 
 ::生成配置文件
 if exist "%CONFIG_FILE_DIR%" del "%CONFIG_FILE_DIR%"
@@ -31,7 +33,10 @@ echo storage:>> "%CONFIG_FILE_DIR%"
 echo     dbPath: %MONGODB_DATA_HOME%\data\db>> "%CONFIG_FILE_DIR%"
 	
 ::mongodb启动
-start mongod -f "%CONFIG_FILE_DIR%"
+sc query "%MONGODB_SERVICE_NAME%" > NUL  
+if not errorlevel 1 sc delete "%MONGODB_SERVICE_NAME%"
+mongod -f "%CUR_DIR%/%CONFIG_FILE_DIR%" --install --serviceName %MONGODB_SERVICE_NAME%
+net start %MONGODB_SERVICE_NAME%
 
 ::mongodb导出数据
 mongoexport --db dba --collection collectiona --out collectiona.json --host 192.168.1.1:27017
