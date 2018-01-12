@@ -13,8 +13,8 @@ done
 BUILD_FOLDER=$(cd `dirname $0`; pwd)
 DASHBOARD_PATH=$BUILD_FOLDER/../../dashboard
 WEB_SOURCE_PATH=$DASHBOARD_PATH/src/main/webapp
-WAR_PATH=$DASHBOARD_PATH/target/dashboard.war
-TARGET_WAR_PATH=$BUILD_FOLDER/dashboard.war
+WAR_PATH=$DASHBOARD_PATH/target/project.war
+TARGET_WAR_PATH=$BUILD_FOLDER/project.war
 
 cd $WEB_SOURCE_PATH
 cnpm install
