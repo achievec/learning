@@ -1,6 +1,7 @@
 #!/bin/bash
 CUR_DIR=$(cd `dirname $0`; pwd)
 INIT_JS_DIR=create_user.js
+MONGODB_DATA_DIR=$CUR_DIR/mongodb_data
 
 #mongodb bin dirctory must setted in shell PATH
 #"MONGODB_DATA_HOME" vaiable must setted in shell enviroment
@@ -39,9 +40,15 @@ mongod --fork --dbpath=${MONGODB_DATA_HOME}/data/db --logpath=${MONGODB_DATA_HOM
 sleep 2
 
 #import data
-cd ../../abc/mongodb_data
-mongoimport --db a --collection abc --file abc.json
-cd $CUR_DIR
+#import data
+for file in `ls $MONGODB_DATA_DIR`
+do
+	if echo $file | grep -qE "*.json"
+	then
+		collectionName=${file%.*}
+		mongoimport --db timedb --collection $collectionName --file $MONGODB_DATA_DIR/$collectionName.json
+	fi
+done
 
 #create user
 mongo --host localhost:27017 "$INIT_JS_DIR"
