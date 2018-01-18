@@ -8,6 +8,7 @@ SET CUR_DIR="%cd%"
 SET CONFIG_FILE_DIR=mongod.cfg
 SET INIT_JS_DIR=create_user.js
 SET MONGODB_SERVICE_NAME=MongoDB
+SET MONGODB_DATA_DIR=%CUR_DIR%\mongodb_data
 
 ::停止mongod进程
 tasklist /nh | find /i "mongod.exe" && taskkill /im mongod.exe /f && echo kill mongod succeed!
@@ -38,9 +39,11 @@ if not errorlevel 1 sc delete "%MONGODB_SERVICE_NAME%"
 mongod -f "%CUR_DIR%/%CONFIG_FILE_DIR%" --install --serviceName %MONGODB_SERVICE_NAME%
 net start %MONGODB_SERVICE_NAME%
 
-::mongodb导出数据
-mongoexport --db dba --collection collectiona --out collectiona.json --host 192.168.1.1:27017
-mongoexport --db dba --collection collectionb --out collectionb.json --host 192.168.1.1:27017
+::mongodb导入数据
+for %%i in (%MONGODB_DATA_DIR%\*.json) do (
+    echo "import data from %%~Ni.json to collection %%~Ni"
+    mongoimport --db timedb --collection %%~Ni --file "%MONGODB_DATA_DIR%\%%~Ni.json"
+)
 
 ::mongodb导入数据
 cd ../../
