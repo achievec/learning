@@ -137,3 +137,4 @@ Icon
 
 # python
 *.pyc
+!**/__pycache__
