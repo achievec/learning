@@ -8,7 +8,7 @@ Design patterns implemented in Java
 Open Source, Distributed, RESTful Search Engine
 - stars: 38381
 - language: Java
-- update time: 2019-02-16 02:44:02
+- update time: 2019-02-16 02:55:02
 
 ### [eactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -42,7 +42,7 @@ An HTTP+HTTP/2 client for Android and Java applications.
 
 ### [oogle/guava](https://github.com/google/guava)
 Google core libraries for Java
-- stars: 29796
+- stars: 29797
 - language: Java
 - update time: 2019-02-14 21:54:02
 
@@ -62,11 +62,11 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 Render After Effects animations natively on Android and iOS, Web, and React Native
 - stars: 24255
 - language: Java
-- update time: 2019-02-16 01:07:02
+- update time: 2019-02-16 03:04:02
 
 ### [nailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- stars: 24116
+- stars: 24118
 - language: Java
 - update time: 2019-02-15 11:46:02
 
@@ -78,7 +78,7 @@ http下载工具，基于http代理，支持多连接分块下载
 
 ### [rossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout)
 Java Core Sprout : basic, concurrent, algorithm
-- stars: 18749
+- stars: 18751
 - language: Java
 - update time: 2019-01-29 17:23:01
 
@@ -96,7 +96,7 @@ A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.a
 
 ### [libaba/druid](https://github.com/alibaba/druid)
 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。阿里云Data Lake Analytics(https://www.aliyun.com/product/datalakeanalytics )、DRDS、TDDL 连接池powered by Druid
-- stars: 15146
+- stars: 15147
 - language: Java
 - update time: 2019-02-05 11:22:02
 
@@ -114,7 +114,7 @@ A Java serialization/deserialization library to convert Java Objects into JSON a
 
 ### [echat-Group/WxJava](https://github.com/Wechat-Group/WxJava)
 WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发
-- stars: 12860
+- stars: 12861
 - language: Java
 - update time: 2019-01-28 03:05:01
 
@@ -162,7 +162,7 @@ Modern Java - A Guide to Java 8
 
 ### [heAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 All Algorithms implemented in Java
-- stars: 10580
+- stars: 10581
 - language: Java
 - update time: 2019-02-13 01:53:02
 
@@ -192,13 +192,13 @@ High Performance Inter-Thread Messaging Library
 
 ### [ybatis/mybatis-3](https://github.com/mybatis/mybatis-3)
 MyBatis SQL mapper framework for Java
-- stars: 9703
+- stars: 9704
 - language: Java
 - update time: 2019-02-11 16:53:02
 
 ### [oocs/advanced-java](https://github.com/doocs/advanced-java)
 互联网 Java 工程师进阶知识完全扫盲
-- stars: 9293
+- stars: 9295
 - language: Java
 - update time: 2019-02-15 06:02:02
 
@@ -272,7 +272,7 @@ The Clojure programming language
 Apache Druid (Incubating) - Column oriented distributed data store ideal for powering interactive applications
 - stars: 7579
 - language: Java
-- update time: 2019-02-16 01:44:02
+- update time: 2019-02-16 02:49:02
 
 ### [oogle/auto](https://github.com/google/auto)
 A collection of source code generators for Java.
@@ -324,7 +324,7 @@ Mirror of Apache RocketMQ
 
 ### [pache/incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)
 Distributed database middleware
-- stars: 6695
+- stars: 6696
 - language: Java
 - update time: 2019-02-15 12:01:02
 
@@ -348,13 +348,13 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ### [oogleContainerTools/jib](https://github.com/GoogleContainerTools/jib)
 Build container images for your Java applications.
-- stars: 5866
+- stars: 5868
 - language: Java
 - update time: 2019-02-15 21:38:02
 
 ### [pache/incubator-skywalking](https://github.com/apache/incubator-skywalking)
 A distributed tracing system, and APM ( Application Performance Monitoring )
-- stars: 5851
+- stars: 5852
 - language: Java
 - update time: 2019-02-15 14:48:02
 
@@ -408,7 +408,7 @@ The vip.com's java coding standard, libraries and tools
 
 ### [libaba/fescar](https://github.com/alibaba/fescar)
 Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.
-- stars: 5042
+- stars: 5044
 - language: Java
 - update time: 2019-02-15 13:41:02
 
@@ -462,7 +462,7 @@ an easy-to-use dynamic service discovery, configuration and service management p
 
 ### [inlinjava/litemall](https://github.com/linlinjava/litemall)
 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
-- stars: 4068
+- stars: 4069
 - language: Java
 - update time: 2019-02-15 13:09:02
 
@@ -516,7 +516,7 @@ Full-featured Socket.IO Client Library for Java, which is compatible with Socket
 
 ### [yc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)
 Spring Cloud教程
-- stars: 3427
+- stars: 3428
 - language: Java
 - update time: 2019-02-11 08:34:02
 
@@ -564,7 +564,7 @@ Integration with Netflix OSS components
 
 ### [ooly/hutool](https://github.com/looly/hutool)
 A set of tools that keep Java sweet.
-- stars: 3056
+- stars: 3057
 - language: Java
 - update time: 2019-02-15 08:37:02
 
@@ -708,7 +708,7 @@ Apache Hive
 
 ### [pache/ignite](https://github.com/apache/ignite)
 Mirror of Apache Ignite
-- stars: 2301
+- stars: 2303
 - language: Java
 - update time: 2019-02-15 20:43:02
 
@@ -1092,7 +1092,7 @@ Segment Fault 在线讲堂 代码工程
 
 ### [-ream/x7](https://github.com/x-ream/x7)
 
-- stars: 752
+- stars: 758
 - language: Java
 - update time: 2019-02-14 11:08:02
 

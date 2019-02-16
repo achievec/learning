@@ -6,7 +6,7 @@ The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to c
 
 ### [wbs/bootstrap](https://github.com/twbs/bootstrap)
 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- stars: 130833
+- stars: 130834
 - language: JavaScript
 - update time: 2019-02-15 21:36:02
 
@@ -18,7 +18,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 ### [ensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 An Open Source Machine Learning Framework for Everyone
-- stars: 120649
+- stars: 120650
 - language: C++
 - update time: 2019-02-16 02:09:02
 
@@ -54,7 +54,7 @@ Visual Studio Code
 
 ### [inta/awesome-python](https://github.com/vinta/awesome-python)
 A curated list of awesome Python frameworks, libraries, software and resources
-- stars: 61525
+- stars: 61527
 - language: Python
 - update time: 2019-02-13 11:18:02
 
@@ -72,7 +72,7 @@ A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ### [lutter/flutter](https://github.com/flutter/flutter)
 Flutter makes it easy and fast to build beautiful mobile apps.
-- stars: 53274
+- stars: 53278
 - language: Dart
 - update time: 2019-02-16 02:43:02
 
@@ -84,9 +84,9 @@ The Go programming language
 
 ### [yC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 技术面试必备基础知识
-- stars: 49482
+- stars: 49484
 - language: None
-- update time: 2019-02-15 04:53:02
+- update time: 2019-02-16 03:04:02
 
 ### [rdoob/three.js](https://github.com/mrdoob/three.js)
 JavaScript 3D library.
@@ -96,7 +96,7 @@ JavaScript 3D library.
 
 ### [ubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 Production-Grade Container Scheduling and Management
-- stars: 48240
+- stars: 48241
 - language: Go
 - update time: 2019-02-16 02:32:02
 
@@ -114,7 +114,7 @@ One framework. Mobile & desktop.
 
 ### [ustjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 免费的计算机编程类中文书籍，欢迎投稿
-- stars: 45206
+- stars: 45207
 - language: JavaScript
 - update time: 2018-12-23 11:54:12
 
@@ -140,17 +140,17 @@ Design patterns implemented in Java
 A UI Design Language
 - stars: 42477
 - language: TypeScript
-- update time: 2019-02-15 15:18:02
+- update time: 2019-02-16 02:50:02
 
 ### [hartjs/Chart.js](https://github.com/chartjs/Chart.js)
 Simple HTML5 Charts using the <canvas> tag
-- stars: 41779
+- stars: 41778
 - language: JavaScript
 - update time: 2019-02-15 14:14:02
 
 ### [etlantern/lantern](https://github.com/getlantern/lantern)
 蓝灯最新版本下载 https://github.com/getlantern/downloadLantern Latest Download https://github.com/getlantern/download
-- stars: 40225
+- stars: 40226
 - language: Go
 - update time: 2019-02-14 18:38:02
 
@@ -170,7 +170,7 @@ Master the command line, in one page
 Open Source, Distributed, RESTful Search Engine
 - stars: 38381
 - language: Java
-- update time: 2019-02-16 02:44:02
+- update time: 2019-02-16 02:55:02
 
 ### [eactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -186,7 +186,7 @@ Jekyll is a blog-aware static site generator in Ruby
 
 ### [dam-p/markdown-here](https://github.com/adam-p/markdown-here)
 Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- stars: 35541
+- stars: 35542
 - language: JavaScript
 - update time: 2018-11-13 20:35:11
 
@@ -222,9 +222,9 @@ Everything you need to know to get the job.
 
 ### [rotocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 Protocol Buffers - Google's data interchange format
-- stars: 32098
+- stars: 32099
 - language: C++
-- update time: 2019-02-16 00:20:02
+- update time: 2019-02-16 02:55:02
 
 ### [crapy/scrapy](https://github.com/scrapy/scrapy)
 Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -234,7 +234,7 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 
 ### [onsky/FiraCode](https://github.com/tonsky/FiraCode)
 Monospaced font with programming ligatures
-- stars: 31265
+- stars: 31266
 - language: Clojure
 - update time: 2019-02-15 00:16:02
 
@@ -248,7 +248,7 @@ Type-safe HTTP client for Android and Java by Square, Inc.
 A new way to JavaScript
 - stars: 31137
 - language: TypeScript
-- update time: 2019-02-15 16:38:02
+- update time: 2019-02-16 02:52:02
 
 ### [quare/okhttp](https://github.com/square/okhttp)
 An HTTP+HTTP/2 client for Android and Java applications.
@@ -258,7 +258,7 @@ An HTTP+HTTP/2 client for Android and Java applications.
 
 ### [oogle/guava](https://github.com/google/guava)
 Google core libraries for Java
-- stars: 29796
+- stars: 29797
 - language: Java
 - update time: 2019-02-14 21:54:02
 
@@ -270,13 +270,13 @@ Google core libraries for Java
 
 ### [anJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 A magical vue admin http://panjiachen.github.io/vue-element-admin
-- stars: 27301
+- stars: 27302
 - language: Vue
 - update time: 2019-02-15 08:21:02
 
 ### [rafana/grafana](https://github.com/grafana/grafana)
 The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- stars: 26766
+- stars: 26767
 - language: TypeScript
 - update time: 2019-02-16 00:39:02
 
@@ -288,7 +288,7 @@ Spring Framework
 
 ### [etBrains/kotlin](https://github.com/JetBrains/kotlin)
 The Kotlin Programming Language
-- stars: 26349
+- stars: 26350
 - language: Kotlin
 - update time: 2019-02-15 23:11:02
 
@@ -314,11 +314,11 @@ An extensible desktop mail app built on the modern web. Forks welcome!
 Render After Effects animations natively on Android and iOS, Web, and React Native
 - stars: 24255
 - language: Java
-- update time: 2019-02-16 01:07:02
+- update time: 2019-02-16 03:04:02
 
 ### [nailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- stars: 24116
+- stars: 24118
 - language: Java
 - update time: 2019-02-15 11:46:02
 
@@ -330,7 +330,7 @@ Video.js - open source HTML5 & Flash video player
 
 ### [tcd-io/etcd](https://github.com/etcd-io/etcd)
 Distributed reliable key-value store for the most critical data of a distributed system
-- stars: 22944
+- stars: 22945
 - language: Go
 - update time: 2019-02-15 18:17:02
 
@@ -374,7 +374,7 @@ CLI tool for Angular
 Apache Spark
 - stars: 20597
 - language: Scala
-- update time: 2019-02-16 02:08:02
+- update time: 2019-02-16 03:05:02
 
 ### [uliaLang/julia](https://github.com/JuliaLang/julia)
 The Julia Language: A fresh approach to technical computing.
@@ -402,13 +402,13 @@ beego is an open-source, high-performance web framework for the Go programming l
 
 ### [rossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout)
 Java Core Sprout : basic, concurrent, algorithm
-- stars: 18749
+- stars: 18751
 - language: Java
 - update time: 2019-01-29 17:23:01
 
 ### [hadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
 Next Generation of ShadowsocksX
-- stars: 18183
+- stars: 18184
 - language: Swift
 - update time: 2019-01-17 16:05:01
 
@@ -434,7 +434,7 @@ Netty project - an event-driven asynchronous network application framework
 TiDB is a distributed HTAP database compatible with the MySQL protocol
 - stars: 17317
 - language: Go
-- update time: 2019-02-15 21:26:02
+- update time: 2019-02-16 03:04:02
 
 ### [tlabs/fastclick](https://github.com/ftlabs/fastclick)
 Polyfill to remove click delays on browsers with touch UIs
@@ -474,7 +474,7 @@ The missing package manager for macOS (or Linux)
 
 ### [nt-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)
 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- stars: 16210
+- stars: 16211
 - language: JavaScript
 - update time: 2019-02-15 09:48:02
 
@@ -486,7 +486,7 @@ Resume template for Chinese programmers . 程序员简历模板系列。包括PH
 
 ### [erhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 Awesome list of open source applications for macOS.
-- stars: 15898
+- stars: 15900
 - language: Swift
 - update time: 2019-02-15 16:11:02
 
@@ -494,7 +494,7 @@ Awesome list of open source applications for macOS.
 CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
 - stars: 15755
 - language: C#
-- update time: 2019-02-16 02:39:02
+- update time: 2019-02-16 02:49:02
 
 ### [youngd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 可能是让你受益匪浅的英语进阶指南
@@ -510,19 +510,19 @@ Peer-to-peer hypermedia protocol
 
 ### [stio/istio](https://github.com/istio/istio)
 Connect, secure, control, and observe services.
-- stars: 15300
+- stars: 15301
 - language: Go
 - update time: 2019-02-16 02:40:02
 
 ### [hengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-- stars: 15251
+- stars: 15253
 - language: Shell
 - update time: 2019-02-13 11:12:02
 
 ### [libaba/druid](https://github.com/alibaba/druid)
 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。阿里云Data Lake Analytics(https://www.aliyun.com/product/datalakeanalytics )、DRDS、TDDL 连接池powered by Druid
-- stars: 15146
+- stars: 15147
 - language: Java
 - update time: 2019-02-05 11:22:02
 
@@ -536,7 +536,7 @@ Desktop/Android/HTML5/iOS Java game development framework
 A CLI workflow for the administration of macOS applications distributed as binaries
 - stars: 14775
 - language: Ruby
-- update time: 2019-02-16 01:47:02
+- update time: 2019-02-16 02:55:02
 
 ### [oogle/gson](https://github.com/google/gson)
 A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -546,7 +546,7 @@ A Java serialization/deserialization library to convert Java Objects into JSON a
 
 ### [lixir-lang/elixir](https://github.com/elixir-lang/elixir)
 Elixir is a dynamic, functional language designed for building scalable and maintainable applications
-- stars: 14751
+- stars: 14752
 - language: Elixir
 - update time: 2019-02-15 23:20:02
 
@@ -560,7 +560,7 @@ How to create an OS from scratch
 Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - stars: 14121
 - language: JavaScript
-- update time: 2019-02-16 02:05:02
+- update time: 2019-02-16 02:50:02
 
 ### [ilibili/flv.js](https://github.com/bilibili/flv.js)
 HTML5 FLV Player
@@ -570,7 +570,7 @@ HTML5 FLV Player
 
 ### [ighlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
 Javascript syntax highlighter
-- stars: 13742
+- stars: 13741
 - language: JavaScript
 - update time: 2019-02-11 16:21:02
 
@@ -582,7 +582,7 @@ ShellCheck, a static analysis tool for shell scripts
 
 ### [avideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-- stars: 13534
+- stars: 13536
 - language: None
 - update time: 2018-05-22 06:17:05
 
@@ -594,25 +594,25 @@ aria2 is a lightweight multi-protocol & multi-source, cross platform download ut
 
 ### [echat-Group/WxJava](https://github.com/Wechat-Group/WxJava)
 WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发
-- stars: 12860
+- stars: 12861
 - language: Java
 - update time: 2019-01-28 03:05:01
 
 ### [hinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- stars: 12828
+- stars: 12829
 - language: Python
 - update time: 2019-02-10 09:23:02
 
 ### [ocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
 Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
-- stars: 12824
+- stars: 12825
 - language: C++
 - update time: 2019-02-15 10:05:02
 
 ### [isterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- stars: 12819
+- stars: 12821
 - language: C++
 - update time: 2019-01-25 06:40:01
 
@@ -636,13 +636,13 @@ PowerShell for every system!
 
 ### [o-gitea/gitea](https://github.com/go-gitea/gitea)
 Git with a cup of tea, painless self-hosted git service
-- stars: 12412
+- stars: 12413
 - language: Go
 - update time: 2019-02-15 23:18:02
 
 ### [bsproject/obs-studio](https://github.com/obsproject/obs-studio)
 OBS Studio - Free and open source software for live streaming and screen recording
-- stars: 12195
+- stars: 12194
 - language: C
 - update time: 2019-02-16 00:23:02
 
@@ -704,7 +704,7 @@ Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能�
 The Scala programming language
 - stars: 11257
 - language: Scala
-- update time: 2019-02-15 23:19:02
+- update time: 2019-02-16 02:58:02
 
 ### [pache/kafka](https://github.com/apache/kafka)
 Mirror of Apache Kafka
@@ -744,7 +744,7 @@ IntelliJ IDEA 简体中文专题教程
 
 ### [heAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 All Algorithms implemented in Java
-- stars: 10580
+- stars: 10581
 - language: Java
 - update time: 2019-02-13 01:53:02
 
@@ -786,7 +786,7 @@ High Performance Inter-Thread Messaging Library
 
 ### [ybatis/mybatis-3](https://github.com/mybatis/mybatis-3)
 MyBatis SQL mapper framework for Java
-- stars: 9703
+- stars: 9704
 - language: Java
 - update time: 2019-02-11 16:53:02
 
@@ -810,13 +810,13 @@ Build highly concurrent, distributed, and resilient message-driven applications 
 
 ### [21xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
-- stars: 9321
+- stars: 9322
 - language: Python
 - update time: 2019-01-27 15:43:01
 
 ### [oocs/advanced-java](https://github.com/doocs/advanced-java)
 互联网 Java 工程师进阶知识完全扫盲
-- stars: 9293
+- stars: 9295
 - language: Java
 - update time: 2019-02-15 06:02:02
 
@@ -864,7 +864,7 @@ memcached development tree
 
 ### [usti8/proton-native](https://github.com/kusti8/proton-native)
 A React environment for cross platform native desktop apps
-- stars: 8531
+- stars: 8532
 - language: JavaScript
 - update time: 2019-02-10 15:17:02
 
@@ -876,7 +876,7 @@ Most popular Mocking framework for unit tests written in Java
 
 ### [pachecn/awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
 LeetCode, HackRank, 剑指offer, classic algorithm implementation
-- stars: 8280
+- stars: 8281
 - language: Python
 - update time: 2019-02-15 20:56:02
 
@@ -900,7 +900,7 @@ A simple expressive web framework for java. News: Spark now has a kotlin DSL htt
 
 ### [lexkimxyz/nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper)
 Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-- stars: 7832
+- stars: 7834
 - language: Shell
 - update time: 2019-02-15 16:37:02
 
@@ -912,7 +912,7 @@ GraalVM: Run Programs Faster Anywhere
 
 ### [khtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
 Convert HTML to PDF using Webkit (QtWebKit)
-- stars: 7805
+- stars: 7806
 - language: C++
 - update time: 2019-02-15 21:53:02
 
@@ -944,7 +944,7 @@ The Clojure programming language
 Apache Druid (Incubating) - Column oriented distributed data store ideal for powering interactive applications
 - stars: 7579
 - language: Java
-- update time: 2019-02-16 01:44:02
+- update time: 2019-02-16 02:49:02
 
 ### [reativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard)
 Material Dashboard - Open Source Bootstrap 4 Material Design Admin
@@ -972,7 +972,7 @@ Apache Flink
 
 ### [rlang/otp](https://github.com/erlang/otp)
 Erlang/OTP
-- stars: 7376
+- stars: 7377
 - language: Erlang
 - update time: 2019-02-15 15:54:02
 
@@ -980,7 +980,7 @@ Erlang/OTP
 IntelliJ IDEA Community Edition
 - stars: 7354
 - language: None
-- update time: 2019-02-16 01:01:02
+- update time: 2019-02-16 03:01:02
 
 ### [zwitserloot/lombok](https://github.com/rzwitserloot/lombok)
 Very spicy additions to the Java programming language.
@@ -1056,7 +1056,7 @@ Mirror of Apache RocketMQ
 
 ### [pache/incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)
 Distributed database middleware
-- stars: 6695
+- stars: 6696
 - language: Java
 - update time: 2019-02-15 12:01:02
 
@@ -1110,19 +1110,19 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ### [igh-speed-downloader/high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader)
 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新
-- stars: 5897
+- stars: 5898
 - language: None
 - update time: 2019-01-01 11:18:01
 
 ### [oogleContainerTools/jib](https://github.com/GoogleContainerTools/jib)
 Build container images for your Java applications.
-- stars: 5866
+- stars: 5868
 - language: Java
 - update time: 2019-02-15 21:38:02
 
 ### [pache/incubator-skywalking](https://github.com/apache/incubator-skywalking)
 A distributed tracing system, and APM ( Application Performance Monitoring )
-- stars: 5851
+- stars: 5852
 - language: Java
 - update time: 2019-02-15 14:48:02
 
@@ -1242,7 +1242,7 @@ The vip.com's java coding standard, libraries and tools
 
 ### [libaba/fescar](https://github.com/alibaba/fescar)
 Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.
-- stars: 5042
+- stars: 5044
 - language: Java
 - update time: 2019-02-15 13:41:02
 
@@ -1350,7 +1350,7 @@ SQL Optimizer And Rewriter
 
 ### [inlinjava/litemall](https://github.com/linlinjava/litemall)
 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
-- stars: 4068
+- stars: 4069
 - language: Java
 - update time: 2019-02-15 13:09:02
 
@@ -1452,7 +1452,7 @@ README文件语法解读，即Github Flavored Markdown语法介绍
 
 ### [yc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)
 Spring Cloud教程
-- stars: 3427
+- stars: 3428
 - language: Java
 - update time: 2019-02-11 08:34:02
 
@@ -1518,7 +1518,7 @@ Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and
 
 ### [art-lang/sdk](https://github.com/dart-lang/sdk)
 The Dart SDK, including the VM, dart2js, core libraries, and more.
-- stars: 3151
+- stars: 3152
 - language: Dart
 - update time: 2019-02-16 01:54:02
 
@@ -1542,7 +1542,7 @@ Pure bash script to test and wait on the availability of a TCP host and port
 
 ### [ooly/hutool](https://github.com/looly/hutool)
 A set of tools that keep Java sweet.
-- stars: 3056
+- stars: 3057
 - language: Java
 - update time: 2019-02-15 08:37:02
 
@@ -1722,7 +1722,7 @@ BTrace - a safe, dynamic tracing tool for the Java platform
 
 ### [angzheng0822/algo](https://github.com/wangzheng0822/algo)
 数据结构和算法必知必会的50个代码实现
-- stars: 2447
+- stars: 2448
 - language: C
 - update time: 2019-02-12 03:40:02
 
@@ -1764,7 +1764,7 @@ Apache Hive
 
 ### [pache/ignite](https://github.com/apache/ignite)
 Mirror of Apache Ignite
-- stars: 2301
+- stars: 2303
 - language: Java
 - update time: 2019-02-15 20:43:02
 
@@ -2398,17 +2398,17 @@ Segment Fault 在线讲堂 代码工程
 - language: Java
 - update time: 2019-02-03 07:15:02
 
+### [-ream/x7](https://github.com/x-ream/x7)
+
+- stars: 758
+- language: Java
+- update time: 2019-02-14 11:08:02
+
 ### [yndonChin/kotlin-docs-zh](https://github.com/LyndonChin/kotlin-docs-zh)
 为了彻底掌握 Kotlin 语法，花了好几个月把官方文档翻译了一遍。
 - stars: 756
 - language: None
 - update time: 2018-12-20 03:59:12
-
-### [-ream/x7](https://github.com/x-ream/x7)
-
-- stars: 752
-- language: Java
-- update time: 2019-02-14 11:08:02
 
 ### [socket/rsocket-java](https://github.com/rsocket/rsocket-java)
 Java implementation of RSocket
@@ -2670,7 +2670,7 @@ Code associated with Your First Progressive Web App codelab (http://g.co/codelab
 
 ### [kyhee/Algorithms-Learning-With-Go](https://github.com/skyhee/Algorithms-Learning-With-Go)
 算法学习 Golang 版，参考 raywenderlich/swift-algorithm-club
-- stars: 375
+- stars: 376
 - language: Go
 - update time: 2018-04-13 11:35:04
 

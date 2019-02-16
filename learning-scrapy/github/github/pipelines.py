@@ -54,6 +54,12 @@ class GithubStarsGroupByLanguagePipeline(object):
     def close_spider(self, spider):
         language_to_repos_map = group_by_language(started_repos)
         with open('achievec_stars_group_by_language.md', 'wb') as outfile:
+
+            outfile.write('# programing language'.encode('utf-8'))
+
+            for language in sorted(language_to_repos_map.iterkeys()):
+                outfile.write(create_language_anchor(language))
+
             for language, repos in language_to_repos_map.items():
                 outfile.write(crate_language_header(language))
                 for repo in repos:
@@ -92,3 +98,9 @@ def crate_language_header(language):
 ---
 # *{language}*
 '''.format(language=language).encode('utf-8')
+
+
+def create_language_anchor(language):
+    return u'''
+- [{0}](#{0})
+'''.format(language).encode('utf-8')
