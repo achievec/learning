@@ -65,8 +65,11 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
+# order range from 0 to 1000
 ITEM_PIPELINES = {
-    'github.pipelines.GithubPipeline': 300
+    'github.pipelines.GithubStarsPipeline': 100,
+    'github.pipelines.GithubStarsJavaPipeline': 200,
+    'github.pipelines.GithubStarsGroupByLanguagePipeline': 300
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

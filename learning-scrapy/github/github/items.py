@@ -8,7 +8,7 @@
 import scrapy
 
 
-class GithubItem(scrapy.Item):
+class GithubStarRepoItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     # pass
@@ -17,3 +17,4 @@ class GithubItem(scrapy.Item):
     stars = scrapy.Field()
     update_time = scrapy.Field()
     desc = scrapy.Field()
+    language = scrapy.Field()
